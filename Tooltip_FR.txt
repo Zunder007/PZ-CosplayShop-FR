@@ -1,0 +1,7 @@
+Tooltip_FR = {
+	-- Item tooltip
+
+	Tooltip_( 'This is the property of the Half-Blood Prince' ) = "( 'C'est la propriété du Prince de Sang-Mêlé' )",
+	Tooltip_(A potion that brings happiness)<br>(Do not take too much)= "Une potion qui apporte du bonheur<br>(N'en prenez pas trop)",
+	Tooltip_(A shot of vodka on the rocks.topped with NiCola.)<br>(Aim high and go out with a bang.)= "Un shot de vodka sur glace, garni de NiCola.<br>Visez haut et sortez en beauté.",
+}
