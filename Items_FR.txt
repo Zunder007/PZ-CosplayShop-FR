@@ -1,0 +1,211 @@
+Items_FR = {
+
+/* 02_Clothing_item */
+	DisplayName_02_Clothes(red) = "Vêtements (rouge)",
+	DisplayName_02_Clothes(white) = "Vêtements (blanc)",
+	DisplayName_02_Shoes(red) = "Chaussures (rouge)",
+	DisplayName_02_Shoes(white) = "Chaussures (blanche)",
+	DisplayName_02_Synchrony_Device(red) = "Dispositif de synchronisation (rouge)",
+	DisplayName_02_Synchrony_Device(white) = "Dispositif de synchronisation (blanc)",
+	DisplayName_02_Hairpin = "Épingle à cheveux",
+	DisplayName_02_Mask = "Masque",
+
+/* BeastGirl_item */
+	DisplayName_Beast_Girl_Skin = "Peau de fille-bête",
+	DisplayName_Wolf_Ears = "Oreilles de loup",
+	DisplayName_Wolf_Tail = "Queue de loup",
+
+/* CatClothes_item */
+	DisplayName_Cat_Hoodie = "Sweat à capuche chat",
+	DisplayName_Cat_HoodieDOWN = "Sweat à capuche chat (abaissée)",
+	DisplayName_Cat_Sneakers = "Baskets chat",
+	DisplayName_Striped_Stockings = "Bas rayés",
+	DisplayName_Cat_Ears = "Oreilles de chat",
+	DisplayName_Paws_Gloves = "Gants Pattes",
+	DisplayName_Paws_Shoes = "Chaussures Pattes",
+
+/* Character_Card_item */
+	DisplayName_Clementine_Character_Card = "Carte de personnage Clémentine",
+	DisplayName_Raccoon_Girl_Character_Card = "Carte de personnage Fille raton laveur",
+	DisplayName_UMP45_Character_Card = "Carte de personnage UMP45",
+	DisplayName_Mordred_Character_Card = "Carte de personnage Mordred",
+	DisplayName_HK416_Character_Card = "Carte de personnage HK416",
+	DisplayName_Kitagawa_Marin_Character_Card = "Carte de personnage Kitagawa Marin",
+	DisplayName_Hu_Tao_Character_Card = "Carte de personnage Hu Tao",
+	DisplayName_Elaina_Character_Card = "Carte de personnage Elaina",
+	DisplayName_Asuna_Character_Card = "Carte de personnage Asuna",
+	DisplayName_Holo_Character_Card = "Carte de personnage Holo",
+	DisplayName_Kiana_Character_Card = "Carte de personnage Kiana",
+
+/* Cyberpunk_Edgerunners_item */
+	DisplayName_Lucy_Mask = "Masque Lucy",
+	DisplayName_Lucy_Shoes = "Chaussures Lucy",
+	DisplayName_Lucy_Hacker_skin = "Peau pirate informatique Lucy",
+	DisplayName_Lucy_Cartridge_Belt = "Cartouchière Lucy",
+	DisplayName_Lucy_Corselet = "Corset Lucy",
+	DisplayName_Lucy_Tights = "Collants Lucy",
+	DisplayName_Lucy_Coat = "Manteau Lucy",
+	DisplayName_The_David_Martinez = "Le David Martinez",
+	DisplayName_Lucy_Space_Helmet = "Casque spatial Lucy",
+
+/* DVA_Clothing_item */
+	DisplayName_DVA_Clothes = "Vêtements DVA",
+	DisplayName_DVA_Hair = "Cheveux DVA",
+	DisplayName_DVA_Mask = "Masque DVA",
+	DisplayName_DVA_Gloves = "Gants DVA",
+	DisplayName_DVA_Shoes = "Chaussures DVA",
+
+/* EVA_Clothing_item + weapon */
+	DisplayName_Spear_of_Longinus = "Lance de Longinus",
+	DisplayName_Asuka_Clothes = "Vêtements Asuka",
+	DisplayName_Asuka_Shoes = "Chaussures Asuka",
+	DisplayName_Asuka_Mask = "Masque Asuka",
+	DisplayName_Rei_Clothes = "Vêtements Rei",
+	DisplayName_Rei_Shoes = "Chaussures Rei",
+	DisplayName_Rei_Mask = "Masque Rei",
+
+/* FGO_Clothing_item + weapon */
+	DisplayName_Aestus_Estus = "Aestus Estus",
+	DisplayName_Naginata = "Naginata",
+	DisplayName_Halberd = "Hallebarde",
+	DisplayName_Nero_Mask = "Masque Nero",
+	DisplayName_Nero_Swimwear = "Maillot Nero",
+	DisplayName_Nero_Swimsuit = "Maillot de bain Nero",
+	DisplayName_Nero_Shoes = "Chaussures Nero",
+	DisplayName_Kiyohime_Mask = "Masque Kiyohime",
+	DisplayName_Kiyohime_Bathrobe = "Peignoir de bain Kiyohime",
+	DisplayName_Kiyohime_Swimsuit = "Maillot de bain Kiyohime",
+	DisplayName_Kiyohime_Shoes = "Chaussures Kiyohime",
+
+/* GarageKit_items */
+	DisplayName_Nemesis_garage_kit = "Nemesis",
+	DisplayName_Nemesis_garage_kit--big = "Nemesis (Large)",
+	DisplayName_Asuka_garage_kit = "Asuka",
+	DisplayName_Asuka_garage_kit--big = "Asuka (Large)",
+	DisplayName_red_02_garage_kit = "Rouge",
+	DisplayName_red_02_garage_kit--big = "Rouge (Large)",
+	DisplayName_white_02_garage_kit = "Blanc",
+	DisplayName_white_02_garage_kit--big = "Blanc (Large)",
+	DisplayName_Noelle_garage_kit = "Noelle",
+	DisplayName_Noelle_garage_kit--big = "Noelle (Large)",
+	DisplayName_Rem_garage_kit = "Rem",
+	DisplayName_Rem_garage_kit--big = "Rem (Large)",
+	DisplayName_Ram_garage_kit = "Ram",
+	DisplayName_Ram_garage_kit--big = "Ram (Large)",
+	DisplayName_Alice_garage_kit = "Alice",
+	DisplayName_Alice_garage_kit--big = "Alice (Large)",
+	DisplayName_Remilia_garage_kit = "Remilia",
+	DisplayName_Remilia_garage_kit--big = "Remilia (Large)",
+	DisplayName_Chii_garage_kit = "Chii",
+	DisplayName_Chii_garage_kit--big = "Chii (Large)",
+	DisplayName_Tokisaki_Kurumi_garage_kit = "Tokisaki Kurumi",
+	DisplayName_Tokisaki_Kurumi_garage_kit--big = "Tokisaki Kurumi (Large)",
+	DisplayName_Bayonetta_garage_kit = "Bayonetta",
+ 	DisplayName_Bayonetta_garage_kit--big = "Bayonetta (Large)",
+
+/* GGO_Shino_Clothing_item + weapon */
+	DisplayName_Shino_Mask = "Masque Shino",
+	DisplayName_Shino_Shoes = "Chaussures Shino",
+	DisplayName_Shino_Knickers = "Culotte Shino",
+	DisplayName_Shino_Cartridge_Belt = "Cartouchière Shino",
+	DisplayName_Shino_Corselet = "Corset Shino",
+	DisplayName_Shino_Leg_Guard = "Garde-jambes Shino",
+	DisplayName_Shino_Coat = "Manteau Shino",
+	DisplayName_Shino_Scarf = "Foulard Shino",
+	DisplayName_PGM_Hecate_II = "PGM Hecate II",
+
+/* I401_Clothing_item */
+	DisplayName_I401_Mask = "Masque I401",
+	DisplayName_I401_Shoes = "Chaussures I401",
+	DisplayName_I401_Knickers = "Culotte I401",
+	DisplayName_I401_Sailor_Skirt = "Jupe Marin I401",
+	DisplayName_I401_Sailor_Suit = "Costume Marin I401",
+
+/* MaskOnly_item */
+	DisplayName_UMP45_Mask = "Masque UMP45",
+	DisplayName_HK416_Mask = "Masque HK416",
+	DisplayName_Mordred_Mask = "Masque Mordred",
+	DisplayName_2B_Mask = "Masque 2B",
+	DisplayName_Peritya_Mask = "Masque Peritya",
+	DisplayName_Sora_Mask = "Masque Sora",
+	DisplayName_Lenna_Mask = "Masque Lenna",
+	DisplayName_Asuna_Mask = "Masque Asuna",
+	DisplayName_Yuuki_Mask = "Masque Yuuki",
+	DisplayName_Alice_Mask = "Masque Alice",
+	DisplayName_Eugeo_Mask = "Masque Eugeo",
+	DisplayName_Kirito_Mask = "Masque Kirito",
+	DisplayName_Kiana_Mask = "Masque Kiana",
+	DisplayName_Kitagawa_Marin_Mask = "Masque Kitagawa Marin",
+	DisplayName_Mai_Mask = "Masque Mai",
+	DisplayName_Ram_Mask = "Masque Ram",
+	DisplayName_Rem_Mask = "Masque Rem",
+
+/* METROID_Clothing_item */
+	DisplayName_Samus_Zero_Suit = "Costume Samus Zero",
+
+/* Nekopara_item */
+	DisplayName_Chocola_Mask = "Masque Chocolat",
+	DisplayName_Vanilla_Mask = "Masque Vanille",
+	DisplayName_Maid_Outfit = "Tenue de soubrette",
+	DisplayName_Vanilla_Stocking = "Bas Vanille",
+	DisplayName_Chocola_Stocking = "Bas Chocolat",
+	DisplayName_Vanilla_Cat_Tail = "Queue de chat Vanille",
+ 	DisplayName_Chocola_Cat_Tail = "Queue de chat Chocolat",
+	DisplayName_Vanilla_Shoes = "Chaussures Vanille",
+	DisplayName_Chocola_Shoes = "Chaussures Chocolat",
+	DisplayName_Vanilla_Swimsuit = "Maillot de bain Vanille",
+	DisplayName_Chocola_Swimsuit = "Maillot de bain Chocolat",
+	DisplayName_Azuki_Shoes = "Chaussures Azuki",
+	DisplayName_Azuki_Mask = "Masque Azuki",
+	DisplayName_Azuki_Cat_Tail = "Queue de chat Azuki",
+	DisplayName_Coconut_Mask = "Masque Coconut",
+	DisplayName_Coconut_Cat_Tail = "Queue de chat Coconut",
+
+/* Other_item */
+	DisplayName_Long_Glove = "Gant long",
+	DisplayName_Stocking = "Bas",
+	DisplayName_Paimon_Bag(Back) = "Sac Paimon (Arrière)",
+ 	DisplayName_Paimon_Bag(Front) = "Sac Paimon (Avant)",
+	DisplayName_HK416_Satchel = "Cartable HK416",
+	DisplayName_Peach_Skin = "Peau de pêche",
+	DisplayName_Brown_Skin = "Peau brune",
+
+/* SAO_Clothing_Item */
+	DisplayName_Asuna_Dress = "Robe Asuna",
+	DisplayName_Asuna_Shoes = "Chaussures Asuna",
+
+/* SeraphOfTheEnd_item */
+	DisplayName_Mitsuba_Uniform = "Uniforme Mitsuba",
+	DisplayName_Shinoa_Uniform = "Uniforme Shinoa",
+	DisplayName_Mitsuba_Mask = "Masque Mitsuba",
+	DisplayName_Shinoa_Mask = "Masque Shinoa",
+	DisplayName_Shinoa_Shoes = "Chaussures Shinoa",
+
+/* SPYxFamily_item + weapon */
+	DisplayName_Yor_Sweater = "Pull-over Yor",
+	DisplayName_Yor_Mask = "Masque Yor",
+	DisplayName_Yor_Shoes = "Chaussures Yor",
+	DisplayName_Long_Handle_Awl = "Poinçon à long manche",
+
+/* Witch_Clothing_item + weapon */
+	DisplayName_Magic_Hat = "Chapeau magique",
+	DisplayName_Long_Magic_Wand = "Longue baguette magique",
+	DisplayName_Magic_Cloak = "Cape magique",
+	DisplayName_Dark_Wand = "Baguette sombre",
+	DisplayName_Short_Wand = "Baguette courte",
+	DisplayName_Advanced_Potion-Making = "Fabrication de potions avancées",
+	DisplayName_Wand_Enchantment:Sectumsempra_(Female) = "Enchantement de baguette : Sectumsempra (Femme)",
+	DisplayName_Wand_Enchantment:Sectumsempra_(Male) = "Enchantement de baguette : Sectumsempra (Homme)",
+	DisplayName_Elixir_to_Induce_Euphoria = "Élixir pour provoquer l'euphorie",
+	DisplayName_Invigoration_Draught = "Potion revigorante",
+
+/*
+                DisplayName_Chisato_Uniform = "?? ??",
+                DisplayName_Takina_Uniform = "?? ??",
+                DisplayName_Chisato_Mask = "?? ??",
+                DisplayName_Takina_Mask = "?? ??",
+                DisplayName_JK_Shoes = "JK ??",
+                DisplayName_Lycoris_Backpack = "?? ??",
+                DisplayName_Dark_Grey_Socks = "??????",
+*/
+}
