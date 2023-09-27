@@ -1,0 +1,213 @@
+Recipe_FR = {
+
+/* 02_Clothing_item */
+	Recipe_02***Buy_02_hairpin = "Acheter: Épingle à cheveux",
+	Recipe_02***Buy_02_mask = "Acheter: Masque",
+	Recipe_02***Buy_02_clothing(red) = "Acheter: Vêtements (rouge)",
+	Recipe_02***Buy_02_clothing(white) = "Acheter: Vêtements (blanc)",
+	Recipe_02***Buy_02_shoes(red) = "Acheter: Chaussures (rouge)",
+	Recipe_02***Buy_02_shoes(white) = "Acheter: Chaussures (blanche)",
+	Recipe_02***Buy_02_Synchrony_Device(red) = "Acheter: Dispositif de synchronisation (rouge)",
+	Recipe_02***Buy_02_Synchrony_Device(white) = "Acheter: Dispositif de synchronisation (blanc)",
+
+/* BeastGirl_item */
+	Recipe_Orc***Buy_Beast_Girl_Skin = "Acheter: Peau de fille-bête",
+	Recipe_Orc***Buy_Wolf_Ears = "Acheter: Oreilles de loup",
+	Recipe_Orc***Buy_Wolf_Tail = "Acheter: Queue de loup",
+
+/* CatClothes_item */
+	Recipe_CAT***Buy_Cat_Hoodie = "Acheter: Sweat à capuche chat",
+	Recipe_CAT***Buy_Cat_Sneakers = "Acheter: Baskets chat",
+	Recipe_CAT***Buy_Striped_Stockings = "Acheter: Bas rayés",
+	Recipe_CAT***Buy_Cat_Ears = "Acheter: Oreilles de chat",
+	Recipe_CAT***Buy_Paws_Gloves = "Acheter: Gants Pattes",
+	Recipe_CAT***Buy_Paws_Shoes = "Acheter: Chaussures Pattes",
+
+/* Character_Card_item */
+	Recipe_Card***Buy_Clementine_Character_Card = "Acheter: Carte de personnage Clémentine",
+	Recipe_Card***Buy_Raccoon_Girl_Character_Card = "Acheter: Carte de personnage Fille raton laveur",
+	Recipe_Card***Buy_UMP45_Character_Card = "Acheter: Carte de personnage UMP45",
+	Recipe_Card***Buy_Mordred_Character_Card = "Acheter: Carte de personnage Mordred",
+	Recipe_Card***Buy_HK416_Character_Card = "Acheter: Carte de personnage HK416",
+	Recipe_Card***Buy_Kitagawa_Marin_Character_Card = "Acheter: Carte de personnage Kitagawa Marin",
+	Recipe_Card***Buy_Hu_Tao_Character_Card = "Acheter: Carte de personnage Hu Tao",
+	Recipe_Card***Buy_Elaina_Character_Card = "Acheter: Carte de personnage Elaina",
+	Recipe_Card***Buy_Asuna_Character_Card = "Acheter: Carte de personnage Asuna",
+	Recipe_Card***Buy_Holo_Character_Card = "Acheter: Carte de personnage Holo",
+	Recipe_Card***Buy_Kiana_Character_Card = "Acheter: Carte de personnage Kiana",
+
+/* Cyberpunk_Edgerunners_item */
+	Recipe_Cyberpunk_Edgerunners***Buy_Lucy_Mask = "Acheter: Masque Lucy",
+	Recipe_Cyberpunk_Edgerunners***Buy_Lucy_Hacker_skin = "Acheter: Peau pirate informatique Lucy",
+	Recipe_Cyberpunk_Edgerunners***Buy_Lucy_Tights = "Acheter: Collants Lucy",
+	Recipe_Cyberpunk_Edgerunners***Buy_Lucy_Corselet = "Acheter: Corset Lucy",
+	Recipe_Cyberpunk_Edgerunners***Buy_Lucy_Cartridge_Belt = "Acheter: Cartouchière Lucy",
+	Recipe_Cyberpunk_Edgerunners***Buy_Lucy_Shoes = "Acheter: Chaussures Lucy",
+	Recipe_Cyberpunk_Edgerunners***Buy_Lucy_Coat = "Acheter: Manteau Lucy",
+	Recipe_Cyberpunk_Edgerunners***Buy_Lucy_Space_Helmet = "Acheter: Casque spatial Lucy",
+	Recipe_Cyberpunk_Edgerunners***Buy_The_David_Martinez = "Acheter: Le David Martinez",
+
+/* DVA_Clothing_item */
+	Recipe_DVA***Buy_dva_clothing = "Acheter: Vêtements DVA",
+	Recipe_DVA***Buy_dva_mask = "Acheter: Masque DVA",
+	Recipe_DVA***Buy_dva_hair = "Acheter: Cheveux DVA",
+	Recipe_DVA***Buy_dva_gloves = "Acheter: Gants DVA",
+	Recipe_DVA***Buy_dva_shoes = "Acheter: Chaussures DVA",
+
+/* EVA_Clothing_item + weapon */
+	Recipe_EVA***Buy_Spear_of_Longinus = "Acheter: Lance de Longinus",
+	Recipe_EVA***Buy_Asuka_clothing = "Acheter: Vêtements Asuka",
+	Recipe_EVA***Buy_Asuka_shoes = "Acheter: Chaussures Asuka",
+	Recipe_EVA***Buy_Asuka_mask = "Acheter: Masque Asuka",
+	Recipe_EVA***Buy_Rei_clothing = "Acheter: Vêtements Rei",
+	Recipe_EVA***Buy_Rei_shoes = "Acheter: Chaussures Rei",
+	Recipe_EVA***Buy_Rei_mask = "Acheter: Masque Rei",
+
+/* FGO_Clothing_item + weapon */
+	Recipe_FGO***Buy_Aestus_Estus = "Acheter: Aestus Estus",
+	Recipe_FGO***Buy_Naginata = "Acheter: Naginata",
+	Recipe_Dynasty_Warriors***Buy_Halberd = "Acheter: Hallebarde",
+	Recipe_FGO***Buy_Nero_Mask  = "Acheter: Masque Nero",
+	Recipe_FGO***Buy_Nero_Swimwear = "Acheter: Maillot Nero",
+	Recipe_FGO***Buy_Nero_Swimsuit = "Acheter: Maillot de bain Nero",
+	Recipe_FGO***Buy_Nero_Shoes = "Acheter: Chaussures Nero",
+	Recipe_FGO***Buy_Kiyohime_Mask = "Acheter: Masque Kiyohime",
+	Recipe_FGO***Buy_Kiyohime_Bathrobe = "Acheter: Peignoir de bain Kiyohime",
+	Recipe_FGO***Buy_Kiyohime_Swimsuit = "Acheter: Maillot de bain Kiyohime",
+	Recipe_FGO***Buy_Kiyohime_Shoes = "Acheter: Chaussures Kiyohime",
+
+/* GarageKit_items */
+	Recipe_Doll***Buy_Nemesis_garage_kit = "Acheter: Nemesis",
+	Recipe_Doll***Buy_Nemesis_garage_kit(big) = "Acheter: Nemesis (Large)",
+	Recipe_Doll***Buy_Asuka_garage_kit = "Acheter: Asuka",
+	Recipe_Doll***Buy_Asuka_garage_kit(big) = "Acheter: Asuka (Large)",
+	Recipe_Doll***Buy_red_02_garage_kit  = "Acheter: Rouge",
+	Recipe_Doll***Buy_red_02_garage_kit(big) = "Acheter: Rouge (Large)",
+	Recipe_Doll***Buy_white_02_garage_kit  = "Acheter: Blanc",
+	Recipe_Doll***Buy_white_02_garage_kit(big) = "Acheter: Blanc (Large)",
+	Recipe_Doll***Buy_Noelle_garage_kit = "Acheter: Noelle",
+	Recipe_Doll***Buy_Noelle_garage_kit(big) = "Acheter: Noelle (Large)",
+	Recipe_Doll***Buy_Rem_garage_kit = "Acheter: Rem",
+	Recipe_Doll***Buy_Rem_garage_kit(big) = "Acheter: Rem (Large)",
+	Recipe_Doll***Buy_Ram_garage_kit = "Acheter: Ram",
+	Recipe_Doll***Buy_Ram_garage_kit(big) = "Acheter: Ram (Large)",
+	Recipe_Doll***Buy_Alice_garage_kit = "Acheter: Alice",
+	Recipe_Doll***Buy_Alice_garage_kit(big) = "Acheter: Alice (Large)",
+	Recipe_Doll***Buy_Remilia_garage_kit = "Acheter: Remilia",
+	Recipe_Doll***Buy_Remilia_garage_kit(big) = "Acheter: Remilia (Large)",
+	Recipe_Doll***Buy_Chii_garage_kit = "Acheter: Chii",
+	Recipe_Doll***Buy_Chii_garage_kit(big) = "Acheter: Chii (Large)",
+	Recipe_Doll***Buy_Tokisaki_Kurumi_garage_kit = "Acheter: Tokisaki Kurumi",
+	Recipe_Doll***Buy_Tokisaki_Kurumi_garage_kit(big) = "Acheter: Tokisaki Kurumi (Large)",
+	Recipe_Doll***Buy_Bayonetta_garage_kit = "Acheter: Bayonetta",
+	Recipe_Doll***Buy_Bayonetta_garage_kit(big) = "Acheter: Bayonetta (Large)",
+
+/* GGO_Shino_Clothing_item + weapon */
+	Recipe_GGO***Buy_Shino_mask = "Acheter: Masque Shino",
+	Recipe_GGO***Buy_Shino_Shoes = "Acheter: Chaussures Shino",
+	Recipe_GGO***Buy_Shino_Knickers = "Acheter: Culotte Shino",
+	Recipe_GGO***Buy_Shino_Cartridge_Belt = "Acheter: Cartouchière Shino",
+	Recipe_GGO***Buy_Shino_Corselet = "Acheter: Corset Shino",
+	Recipe_GGO***Buy_Shino_Leg_Guard = "Acheter: Garde-jambes Shino",
+	Recipe_GGO***Buy_Shino_Coat = "Acheter: Manteau Shino",
+	Recipe_GGO***Buy_Shino_Scarf = "Acheter: Foulard Shino",
+	Recipe_GGO***Buy_PGM-Hecate-II = "Acheter: PGM Hecate II",
+
+/* I401_Clothing_item */
+	Recipe_I401***Buy_I401_Mask = "Acheter: Masque I401",
+	Recipe_I401***Buy_I401_Shoes = "Acheter: Chaussures I401",
+	Recipe_I401***Buy_I401_Sailor_Skirt = "Acheter: Jupe Marin I401",
+	Recipe_I401***Buy_I401_Sailor_Suit = "Acheter: Costume Marin I401",
+	Recipe_I401***Buy_I401_Knickers = "Acheter: Culotte I401",
+
+/* MaskOnly_item */
+	Recipe_GF***Buy_UMP45_Mask = "Acheter: Masque UMP45",
+	Recipe_GF***Buy_HK416_Mask = "Acheter: Masque HK416",
+	Recipe_GF2***Buy_Peritya_Mask = "Acheter: Masque Peritya",
+	Recipe_GF2***Buy_Lenna_Mask = "Acheter: Masque Lenna",
+	Recipe_NieR***Buy_2B_Mask = "Acheter: Masque 2B",
+	Recipe_Arknights***Buy_Sora_Mask = "Acheter: Masque Sora",
+	Recipe_FGO***Buy_Mordred_Mask = "Acheter: Masque Mordred",
+	Recipe_SAO***Buy_Asuna_Mask = "Acheter: Masque Asuna",
+	Recipe_SAO***Buy_Yuuki_Mask = "Acheter: Masque Yuuki",
+	Recipe_SAO***Buy_Alice_Mask = "Acheter: Masque Alice",
+	Recipe_SAO***Buy_Eugeo_Mask = "Acheter: Masque Eugeo",
+	Recipe_SAO***Buy_Kirito_Mask = "Acheter: Masque Kirito",
+	Recipe_Honkai_Impact_3***Buy_Kiana_Mask = "Acheter: Masque Kiana",
+	Recipe_My_Dress_Up_Darling***Buy_Kitagawa_Marin_Mask = "Acheter: Masque Kitagawa Marin",
+	Recipe_Rascal_Does_Not_Dream_of_Bunny_Girl_Senpai***Buy_Mai_Mask = "Acheter: Masque Mai",
+	Recipe_Re0***Buy_Ram_Mask = "Acheter: Masque Ram",
+	Recipe_Re0***Buy_Rem_Mask = "Acheter: Masque Rem",
+
+/* METROID_Clothing_item */
+	Recipe_METROID***Buy_Samus_Zero_Suit = "Acheter: Costume Samus Zero",
+
+/* Money_item */
+	Recipe_000***Open_a_wallet = "Ouvrir un portefeuille",
+	Recipe_000***Use_a_credit_card = "Utiliser une carte de crédit",
+
+/* Nekopara_item */
+	Recipe_NEKOPARA***Buy_Chocola_Mask = "Acheter: Masque Chocolat",
+	Recipe_NEKOPARA***Buy_Vanilla_Mask = "Acheter: Masque Vanille",
+	Recipe_NEKOPARA***Buy_Maid_Outfit = "Acheter: Tenue de soubrette",
+	Recipe_NEKOPARA***Buy_Chocola_Stocking = "Acheter: Bas Chocolat",
+	Recipe_NEKOPARA***Buy_Vanilla_Stocking = "Acheter: Bas Vanille",
+	Recipe_NEKOPARA***Buy_Chocola_Cat_Tail = "Acheter: Queue de chat Chocolat",
+	Recipe_NEKOPARA***Buy_Vanilla_Cat_Tail = "Acheter: Queue de chat Vanille",
+	Recipe_NEKOPARA***Buy_Chocola_Shoes = "Acheter: Chaussures Chocolat",
+	Recipe_NEKOPARA***Buy_Vanilla_Shoes = "Acheter: Chaussures Vanille",
+	Recipe_NEKOPARA***Buy_Chocola_Swimsuit = "Acheter: Maillot de bain Chocolat",
+	Recipe_NEKOPARA***Buy_Vanilla_Swimsuit = "Acheter: Maillot de bain Vanille",
+	Recipe_NEKOPARA***Buy_Azuki_Mask = "Acheter: Masque Azuki",
+	Recipe_NEKOPARA***Buy_Azuki_Cat_Tail = "Acheter: Queue de chat Azuki",
+	Recipe_NEKOPARA***Buy_Azuki_Shoes = "Acheter: Chaussures Azuki",
+	Recipe_NEKOPARA***Buy_Coconut_Mask = "Acheter: Masque Coconut",
+	Recipe_NEKOPARA***Buy_Coconut_Cat_Tail = "Acheter: Queue de chat Coconut",
+
+/* Other_item */
+	Recipe_Other***Buy_Stocking = "Acheter: Bas",
+	Recipe_Other***Buy_Long_Glove = "Acheter: Gant long",
+	Recipe_Other***Buy_Paimon_Bag = "Acheter: Sac Paimon",
+	Recipe_Other***Buy_HK416_Satchel = "Acheter: Cartable HK416",
+	Recipe_000***Buy_Peach_Skin = "Acheter: Peau de pêche",
+	Recipe_000***Buy_Brown_Skin = "Acheter: Peau brune",
+
+/* SAO_Clothing_Item */
+	Recipe_SAO***Buy_Asuna_Dress = "Acheter: Robe Asuna",
+	Recipe_SAO***Buy_Asuna_Shoes = "Acheter: Chaussures Asuna",
+
+/* SeraphOfTheEnd_item */
+	Recipe_Seraph_of_the_End***Buy_Mitsuba_Uniform = "Acheter: Uniforme Mitsuba",
+	Recipe_Seraph_of_the_End***Buy_Shinoa_Uniform = "Acheter: Uniforme Shinoa",
+	Recipe_Seraph_of_the_End***Buy_Mitsuba_Mask = "Acheter: Masque Mitsuba",
+	Recipe_Seraph_of_the_End***Buy_Shinoa_Mask = "Acheter: Masque Shinoa",
+	Recipe_Seraph_of_the_End***Buy_Shinoa_Shoes = "Acheter: Chaussures Shinoa",
+
+/* SPYxFamily_item + weapon */
+	Recipe_SPY_Family***Buy_Yor_Mask = "Acheter: Masque Yor",
+	Recipe_SPY_Family***Buy_Yor_Shoes = "Acheter: Chaussures Yor",
+	Recipe_SPY_Family***Buy_Yor_Sweater = "Acheter: Pull-over Yor",
+	Recipe_SPY_Family***Buy_Long_Handle_Awl = "Acheter: Poinçon à long manche",
+
+/* Witch_Clothing_item + weapon */
+	Recipe_Witch***Buy_Long_Magic_Wand = "Acheter: Longue baguette magique",
+	Recipe_Witch***Buy_Magic_Hat = "Acheter: Chapeau magique",
+	Recipe_Witch***Buy_Magic_Cloak = "Acheter: Cape magique",
+	Recipe_Witch***Buy_Dark_Wand = "Acheter: Baguette sombre",
+	Recipe_Harry Potter***Buy_Short_Wand = "Acheter: Baguette courte",
+	Recipe_Harry Potter***Enchant_a_wand-Sectumsempra_(Female) = "Acheter: Enchantement de baguette : Sectumsempra (Femme)",
+	Recipe_Harry Potter***Enchant_a_wand-Sectumsempra_(Male) = "Acheter: Enchantement de baguette : Sectumsempra (Homme)",
+	Recipe_Harry Potter***Buy_Advanced_Potion-Making = "Acheter: Fabrication de potions avancées",
+	Recipe_Harry Potter***Concoct_a_potion-Elixir_to_Induce_Euphoria = "Acheter: Élixir pour provoquer l'euphorie",
+	Recipe_Harry Potter***Concoct_a_potion-Invigoration_Draught = "Acheter: Potion revigorante",
+
+/*
+	Recipe_Lycoris Recoil***Buy Chisato Uniform = "????***??????",
+	Recipe_Lycoris Recoil***Buy Takina Uniform = "????***??????",
+	Recipe_Lycoris Recoil***Buy Chisato Mask = "????***??????",
+	Recipe_Lycoris Recoil***Buy Takina Mask = "????***??????",
+	Recipe_Lycoris Recoil***Buy JK Shoes = "????***??JK??",
+	Recipe_Lycoris Recoil***Buy Dark Grey Socks = "????***????????",
+	Recipe_Lycoris Recoil***Buy Lycoris Backpack = "????***??????",
+*/
+}
