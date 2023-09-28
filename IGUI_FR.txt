@@ -1,5 +1,5 @@
 IGUI_FR = {
 
-	IGUI_CraftCategory_cosplay = "Boutique",
+	IGUI_CraftCategory_cosplay = "Boutique Cosplay",
 
 }
