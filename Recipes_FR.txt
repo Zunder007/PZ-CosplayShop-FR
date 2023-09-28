@@ -1,4 +1,4 @@
-Recipe_FR = {
+Recipes_FR = {
 
 /* 02_Clothing_item */
 	Recipe_02***Buy_02_hairpin = "Acheter: Épingle à cheveux",
@@ -201,13 +201,12 @@ Recipe_FR = {
 	Recipe_Harry Potter***Concoct_a_potion-Elixir_to_Induce_Euphoria = "Acheter: Élixir pour provoquer l'euphorie",
 	Recipe_Harry Potter***Concoct_a_potion-Invigoration_Draught = "Acheter: Potion revigorante",
 
-/*
-	Recipe_Lycoris Recoil***Buy Chisato Uniform = "????***??????",
-	Recipe_Lycoris Recoil***Buy Takina Uniform = "????***??????",
-	Recipe_Lycoris Recoil***Buy Chisato Mask = "????***??????",
-	Recipe_Lycoris Recoil***Buy Takina Mask = "????***??????",
-	Recipe_Lycoris Recoil***Buy JK Shoes = "????***??JK??",
-	Recipe_Lycoris Recoil***Buy Dark Grey Socks = "????***????????",
-	Recipe_Lycoris Recoil***Buy Lycoris Backpack = "????***??????",
-*/
+/* Fichier introuvable mais bien en jeu */
+	Recipe_Lycoris Recoil***Buy_Chisato_Uniform = "Acheter: Uniforme Chisato",
+	Recipe_Lycoris Recoil***Buy_Takina_Uniform = "Acheter: Uniforme Takina",
+	Recipe_Lycoris Recoil***Buy_Chisato_Mask = "Acheter: Masque Chisato",
+	Recipe_Lycoris Recoil***Buy_Takina_Mask = "Acheter: Masque Takina",
+	Recipe_Lycoris Recoil***Buy_JK_Shoes = "Acheter: Chaussures JK",
+	Recipe_Lycoris Recoil***Buy_Dark_Grey_Socks = "Acheter: Chaussettes gris foncé",
+	Recipe_Lycoris Recoil***Buy_Lycoris_Backpack = "Acheter: Sac à dos Lycoris",
 }
