@@ -199,13 +199,12 @@ Items_FR = {
 	DisplayName_Elixir_to_Induce_Euphoria = "Élixir pour provoquer l'euphorie",
 	DisplayName_Invigoration_Draught = "Potion revigorante",
 
-/*
-                DisplayName_Chisato_Uniform = "?? ??",
-                DisplayName_Takina_Uniform = "?? ??",
-                DisplayName_Chisato_Mask = "?? ??",
-                DisplayName_Takina_Mask = "?? ??",
-                DisplayName_JK_Shoes = "JK ??",
-                DisplayName_Lycoris_Backpack = "?? ??",
-                DisplayName_Dark_Grey_Socks = "??????",
-*/
+/* Fichier introuvable mais bien en jeu */
+                DisplayName_Chisato_Uniform = "Uniforme Chisato",
+                DisplayName_Takina_Uniform = "Uniforme Takina",
+                DisplayName_Chisato_Mask = "Masque Chisato",
+                DisplayName_Takina_Mask = "Masque Takina",
+                DisplayName_JK_Shoes = "Chaussures JK",
+                DisplayName_Lycoris_Backpack = "Sac à dos Lycoris",
+                DisplayName_Dark_Grey_Socks = "Chaussettes gris foncé",
 }
