@@ -1,0 +1,4 @@
+UI_FR = {
+	UI_ClothingType_Exoskeleton = "Cosplay Exosquelette",
+	UI_ClothingType_kigurumi = "Cosplay Masque",
+}
