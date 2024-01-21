@@ -163,6 +163,10 @@ Recipes_FR = {
 	Recipe_NEKOPARA***Buy_Azuki_Shoes = "Acheter: Chaussures Azuki",
 	Recipe_NEKOPARA***Buy_Coconut_Mask = "Acheter: Masque Coconut",
 	Recipe_NEKOPARA***Buy_Coconut_Cat_Tail = "Acheter: Queue de chat Coconut",
+	Recipe_NEKOPARA***Buy_Cinnamon_Cat_Tail = "Acheter: Queue de chat Cinnamon",
+	Recipe_NEKOPARA***Buy_Cinnamon_Mask = "Acheter: Masque Cinnamon",
+	Recipe_NEKOPARA***Buy_Maple_Cat_Tail = "Acheter: Queue de chat Maple",
+	Recipe_NEKOPARA***Buy_Maple_Mask = "Acheter: Masque Maple",
 
 /* Other_item */
 	Recipe_Other***Buy_Stocking = "Acheter: Bas",
