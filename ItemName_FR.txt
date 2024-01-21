@@ -169,4 +169,8 @@ ItemName_FR = {
 	ItemName_Base.red_02_garage_kit_big = "Rouge (Large)",
 	ItemName_Base.white_02_garage_kit = "Blanc",
 	ItemName_Base.white_02_garage_kit_big = "Blanc (Large)",
+	ItemName_Base.Cinnamon Cat Tail = "Queue de chat Cinnamon",
+	ItemName_Base.Cinnamon Mask = "Masque Cinnamon",
+	ItemName_Base.Maple Cat Tail = "Queue de chat Maple",
+	ItemName_Base.Maple Mask = "Masque Maple",
 }
